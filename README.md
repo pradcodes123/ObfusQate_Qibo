@@ -114,12 +114,3 @@ Includes standard quantum algorithms:
 
 ---
 
-##  Future Improvements
-
-* Benchmark performance impact of obfuscation
-* Add visualization of transformed circuits
-* Support for more quantum frameworks (Cirq)
-* Automate transformation pipelines
-
----
-

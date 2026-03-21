@@ -6,7 +6,7 @@ This project explores how quantum operations can be modified, hidden, or restruc
 
 ---
 
-## 🚀 Features
+## Features
 
 * Superposition-based transformations
 * Entanglement-based obfuscation
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+## Usage
 
 Run any module directly:
 
@@ -52,7 +52,7 @@ Each script demonstrates a different obfuscation/transformation technique applie
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ObfusQate_Qibo/
@@ -79,7 +79,7 @@ ObfusQate_Qibo/
 
 ---
 
-## 🧠 How It Works
+ How It Works
 
 The project applies different strategies to modify quantum circuits:
 
@@ -93,7 +93,7 @@ All transformations aim to preserve correctness while altering structure.
 
 ---
 
-## 🧪 Example Circuits
+##  Example Circuits
 
 Includes standard quantum algorithms:
 
@@ -106,7 +106,7 @@ Includes standard quantum algorithms:
 
 ---
 
-## ⚠️ Notes
+##  Notes
 
 * Built using Qibo simulator (no real hardware required)
 * Uses Python built-in modules (sys, time, random, ast)
@@ -114,15 +114,12 @@ Includes standard quantum algorithms:
 
 ---
 
-## 🛠️ Future Improvements
+##  Future Improvements
 
 * Benchmark performance impact of obfuscation
 * Add visualization of transformed circuits
-* Support for more quantum frameworks (Qiskit, Cirq)
+* Support for more quantum frameworks (Cirq)
 * Automate transformation pipelines
 
 ---
 
-## 📜 License
-
-MIT License
